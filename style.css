@@ -1,0 +1,13 @@
+body{
+    background-image: url("background.png");
+
+    background-repeat: no-repeat
+}
+#calculate{
+    background-color:red;
+    color:white;
+}
+
+label{
+    display: block;
+}
